@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SpatialInference"]
+	path = SpatialInference
+	url = https://github.com/axlehner/spatialinference
 [submodule "SpatialRDD"]
 	path = SpatialRDD
 	url = https://github.com/axlehner/spatialrdd
